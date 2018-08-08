@@ -39,7 +39,7 @@
 <div id="footer-partner" class="not767">
   <div class="inside">
     <div id="partner">
-      <div class="lead"><?php _e('Our partners', 'veronika'); ?></div>
+      <div class="lead"><?php _e('Payment Methods', 'veronika'); ?></div>
 
       <?php 
         $partner_path = osc_base_path() . 'oc-content/themes/' . osc_current_web_theme() . '/images/partner-logos'; 
