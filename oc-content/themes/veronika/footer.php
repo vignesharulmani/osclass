@@ -36,6 +36,7 @@
 
 
 <!-- PARTNERS SECTION IN FOOTER -->
+/*
 <div id="footer-partner" class="not767">
   <div class="inside">
     <div id="partner">
@@ -60,6 +61,7 @@
     </div>
   </div>
 </div>
+*/
 
 
 
