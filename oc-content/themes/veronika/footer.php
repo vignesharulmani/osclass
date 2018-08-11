@@ -35,35 +35,6 @@
 
 
 
-<!-- PARTNERS SECTION IN FOOTER -->
-/*
-<div id="footer-partner" class="not767">
-  <div class="inside">
-    <div id="partner">
-      <div class="lead"><?php _e('Payment Methods', 'veronika'); ?></div>
-
-      <?php 
-        $partner_path = osc_base_path() . 'oc-content/themes/' . osc_current_web_theme() . '/images/partner-logos'; 
-        $partner_url = osc_base_url() . 'oc-content/themes/' . osc_current_web_theme() . '/images/partner-logos'; 
-        $partner_images = scandir($partner_path);
-
-        if(isset($partner_images) && !empty($partner_images) && $partner_images <> '') {
-          foreach($partner_images as $img) {
-            $ext = strtolower(pathinfo($partner_path . '/' . $img, PATHINFO_EXTENSION));
-            $allowed_ext = array('png', 'jpg', 'jpeg', 'gif');
-
-            if(in_array($ext, $allowed_ext)) {
-              echo '<img class="partner-image" src="' . $partner_url . '/' . $img . '" alt="' . __('Our partner logo', 'veronika') . '" />';
-            }
-          }
-        }
-      ?>
-    </div>
-  </div>
-</div>
-*/
-
-
 
 <div id="footer">
   <div class="inside">
