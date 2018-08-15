@@ -35,6 +35,11 @@
 
 
 
+<!-- PARTNERS SECTION IN FOOTER -->
+
+<!-- REMOVED PARTNERS SECTION IN FOOTER -->
+
+
 
 <div id="footer">
   <div class="inside">

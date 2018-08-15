@@ -36,7 +36,6 @@
 
     <?php $c++; ?>
   <?php } ?>
-  <p align="right"><?php watchlist();?><p>
 </div>
 
 
